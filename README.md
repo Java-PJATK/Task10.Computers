@@ -5,12 +5,6 @@ Deadline: Jun 24 (inclusive)
 
 Create three classes:
 
-Sure, here is the requested task formatted as GitHub markdown:
-
-# Task 10
-
-Create three classes:
-
 ### 1. `CalculatingDevice`
 - **Constructor**: Takes a `name` (`String`).
 - **Method**: 
@@ -169,5 +163,3 @@ Cray: 21.0+7.0=28.0; 21.0-7.0=14.0; 21.0*7.0=147.0; 21.0/7.0=3.0
 Abacus: 21.0+7.0=28.0
 HP: 21.0+7.0=28.0; 21.0-7.0=14.0
 ```
-
-This code meets the requirements and produces the expected output.
